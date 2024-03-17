@@ -1,6 +1,5 @@
 import {promises as fs} from 'fs';
 import {Message} from './types';
-import Messages from './routers/messages';
 
 
 const fileHandler = {
